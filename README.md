@@ -1,4 +1,4 @@
 # Hello-world
-Just another repository
+Not Just another repository
 And this is an important readme file
 Her kommer lidt om mig selv... 
